@@ -1,2 +1,3 @@
-# zwide-roots-linktree-
-🔗 Master Linktree hub connecting all sites
+# Zwide Roots Linktree
+
+Links all 3 income generators in one page.
